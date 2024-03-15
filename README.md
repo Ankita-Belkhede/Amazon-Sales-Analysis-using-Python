@@ -1,7 +1,8 @@
 # Amazon-Sales-Analysis-using-Python
 
 ## Overview
-This repository contains Python scripts and Jupyter notebooks for analyzing Amazon sales data. 
+This repository contains Python scripts and Jupyter notebooks for analyzing Amazon sales data.
+Python project to Analyze Amazon sales data to check the buyers preferred choice in the sales.
 
 ## Features
 
