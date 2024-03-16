@@ -14,7 +14,7 @@ Python project to Analyze Amazon sales data to check the buyers preferred choice
 
 ![](https://github.com/Ankita-Belkhede/Amazon-Sales-Analysis-using-Python/blob/main/BarChart.png?raw=true)
 ![](https://github.com/Ankita-Belkhede/Amazon-Sales-Analysis-using-Python/blob/main/Bar%20Chart.png?raw=true)
-![](?raw=true)
+![](https://github.com/Ankita-Belkhede/Amazon-Sales-Analysis-using-Python/commit/7910807eb8b81a4213ad7a60c00804e4dfdd6907?raw=true)
 
 
 ## Usage
