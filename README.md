@@ -12,7 +12,7 @@ Python project to Analyze Amazon sales data to check the buyers preferred choice
 * Visualizations: Generation of insightful visualizations such as line plots, bar charts, and Scatter chart to present the analysis results effectively.
 
 
-![](?raw=true)
+![](https://github.com/Ankita-Belkhede/Amazon-Sales-Analysis-using-Python/blob/main/Bar%20Chart.?raw=true)
 ![](?raw=true)
 ![](?raw=true)
 
