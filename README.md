@@ -16,6 +16,8 @@ Python project to Analyze Amazon sales data to check the buyers preferred choice
 
 ![](https://github.com/Ankita-Belkhede/Amazon-Sales-Analysis-using-Python/blob/main/Bar%20Chart.png?raw=true)
 
+![](https://github.com/Ankita-Belkhede/Amazon-Sales-Analysis-using-Python/blob/main/Scatter%20Chart.png?raw=true)
+
 
 ## Usage
 * Jupyter Notebooks: Open and run the provided notebooks in Jupyter environment.
