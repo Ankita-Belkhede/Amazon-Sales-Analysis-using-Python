@@ -11,6 +11,12 @@ Python project to Analyze Amazon sales data to check the buyers preferred choice
 * Exploratory Data Analysis (EDA): Visualize sales trends, revenue distribution, product performance, and more.
 * Visualizations: Generation of insightful visualizations such as line plots, bar charts, and Scatter chart to present the analysis results effectively.
 
+
+![](?raw=true)
+![](?raw=true)
+![](?raw=true)
+
+
 ## Usage
 * Jupyter Notebooks: Open and run the provided notebooks in Jupyter environment.
 * Python Scripts: Execute Python scripts for specific tasks or integrate them into your workflow.
