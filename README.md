@@ -20,6 +20,6 @@ Python project to Analyze Amazon sales data to check the buyers preferred choice
 
 
 ## Usage
-* Jupyter Notebooks: Open and run the provided notebooks in Jupyter environment.
-* Python Scripts: Execute Python scripts for specific tasks or integrate them into your workflow.
-* Customization: Modify the scripts and notebooks to suit your specific requirements and data sources.
+*Proficient in Jupyter Notebooks for running, analyzing, and modifying data workflows to support data exploration and visualization.
+*Experienced in executing Python scripts for data processing, automation, and task-specific integrations within various workflows.
+*Skilled in customizing scripts and notebooks to adapt to specific business requirements, data sources, and analytical needs, ensuring tailored solutions for diverse projects.
